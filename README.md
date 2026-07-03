@@ -1,5 +1,10 @@
 # DevTerminal Agent — 终端 AI 编程助手
 
+![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-0.2.0-orange.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/CodeCanvas-Ak/DevTerminal-Agent?style=social)
+
 轻量级终端 AI 编码助手，基于 ReAct 与 Plan Mode 双模式驱动 LLM 自主完成编程任务。
 
 ## 特性
